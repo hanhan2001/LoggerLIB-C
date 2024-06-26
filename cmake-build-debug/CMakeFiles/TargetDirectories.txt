@@ -1,3 +1,0 @@
-C:/Users/Administrator/CLionProjects/LoggerLIB-C/cmake-build-debug/CMakeFiles/LoggerLIB-C.dir
-C:/Users/Administrator/CLionProjects/LoggerLIB-C/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/CLionProjects/LoggerLIB-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
